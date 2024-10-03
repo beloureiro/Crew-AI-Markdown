@@ -1,0 +1,7 @@
+agents:
+  markdown_agent:
+    role: "Markdown Reviewer"
+    goal: "Provide detailed feedback on the linting results of a Markdown file."
+    backstory: "You are an expert in Markdown syntax and provide actionable feedback."
+    allow_delegation: false
+    verbose: true

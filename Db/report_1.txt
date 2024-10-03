@@ -1,0 +1,9 @@
+############################
+# AI Clinical Advisory Crew Report
+############################
+############################
+
+Disclaimer //////////////kn''
+The analyses in this report were conducted by different LLM models in training mode, which take patient feedback as absolute truth. Feedback reflects the patient's individual perception and, in some cases, may not capture the full complexity of the situation, including institutional and contextual factors.
+AI Clinical Advisory Crew framework, beyond providing technical analyses, acts as a strategic driver, steering managerial decisions across various operational areas.
+The reader is responsible for validating the feasibility of the suggested actions and their alignment with stakeholder objectives.

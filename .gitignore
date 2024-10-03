@@ -1,0 +1,22 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar ambientes virtuais
+.env/
+.venv
+venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação
+*.pyc
+__pycache__/
+
+# Ignorar dependências
+node_modules/
+
+# Ignorar arquivos de configuração
+*.config
+
